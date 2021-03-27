@@ -1,2 +1,2 @@
 Test file
-pdating from local repo
+updating from local repo
