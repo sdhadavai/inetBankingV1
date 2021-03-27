@@ -1,0 +1,5 @@
+INFO    2021-03-27 12:49:51,973 [main] eBaning  WebPage opened
+INFO    2021-03-27 12:49:52,556 [main] eBaning  Entered UserID
+INFO    2021-03-27 12:49:52,775 [main] eBaning  Entered Password
+INFO    2021-03-27 12:49:54,840 [main] eBaning  Clicked on Login button
+INFO    2021-03-27 12:49:54,858 [main] eBaning  Login test passed
